@@ -7,6 +7,6 @@ Steps to execute the app:
 
 2. Open index.html in a browser.
 
-3. app.js file contains the controller and the directive.
+3. app.js file contains the code for the controller and the directive.
 
 4. abc.html and sample.html files are the template html files opened using the directive.
